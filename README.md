@@ -1,2 +1,2 @@
-# maven-template-webapp
-maven-template-webapp
+# cxf-demo
+a simle CXF demo

@@ -1,2 +1,2 @@
-# maven-template-java-simple
-maven template java simple
+# cxf-client
+CXF client
